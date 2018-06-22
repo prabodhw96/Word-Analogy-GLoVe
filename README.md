@@ -7,4 +7,4 @@ GloVe is an unsupervised learning algorithm for obtaining vector representations
 **Source:** https://nlp.stanford.edu/data/glove.6B.zip
 Unzip glove.6B.zip and store **glove.6B.300d.txt** in **/data** folder.
 ## Screenshots
-![](https://raw.githubusercontent.com/prabodhw96/Word-Analogy-GLoVe/result.png)
+![](https://raw.githubusercontent.com/prabodhw96/Word-Analogy-GLoVe/master/result.png)
